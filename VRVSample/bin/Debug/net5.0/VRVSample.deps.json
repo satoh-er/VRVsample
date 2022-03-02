@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VRVSample/1.0.0": {
+        "dependencies": {
+          "Popolo": "2.3.1.33"
+        },
+        "runtime": {
+          "VRVSample.dll": {}
+        }
+      },
+      "Popolo/2.3.1.33": {
+        "dependencies": {
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Popolo.dll": {
+            "assemblyVersion": "2.3.1.33",
+            "fileVersion": "2.3.1.33"
+          }
+        }
+      },
+      "System.Text.Json/4.7.2": {}
+    }
+  },
+  "libraries": {
+    "VRVSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Popolo/2.3.1.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y8igRn06tVxBrWHK3ptUaY0yZvAZ6BZEKCirp35kj5bBRahgeaMIYDfiYFero4NOuGBpp7uRthicrKgtTNCKNA==",
+      "path": "popolo/2.3.1.33",
+      "hashPath": "popolo.2.3.1.33.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvRF4vp5fMfrCk7Vy01tm4Lqfztohk1F1YZdeMgSlH3KuNO7lBZb6taa08bWyf8lWzflE4+i6oIdslIW2agF6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etoga\\Desktop\\VRVSample\\VRVSample\\VRVSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etoga\\.nuget\\packages\\popolo\\2.3.1.33\\popolo.2.3.1.33.nupkg.sha512",
+    "C:\\Users\\etoga\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

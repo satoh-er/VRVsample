@@ -1,0 +1,6 @@
+C:\Users\etoga\Desktop\VRVSample\publish\VRVSample.exe
+C:\Users\etoga\Desktop\VRVSample\publish\VRVSample.dll
+C:\Users\etoga\Desktop\VRVSample\publish\VRVSample.deps.json
+C:\Users\etoga\Desktop\VRVSample\publish\VRVSample.runtimeconfig.json
+C:\Users\etoga\Desktop\VRVSample\publish\VRVSample.pdb
+C:\Users\etoga\Desktop\VRVSample\publish\Popolo.dll
